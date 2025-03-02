@@ -5,25 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="673da8a6-6b0b-4ef3-8a41-35617f85316d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object Oriented Programming 2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exceptions_Assertions/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generic_Classes/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generic_Classes/MyArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generic_Classes/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multi_Threading/Activity1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multi_Threading/Activity1/MyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multi_Threading/Activity2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multi_Threading/Activity2/Operations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multi_Threading/Activity3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multi_Threading/Midterm_Review/Activity3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CodeJamjamzz&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CodeJamjamzz/CSIT_228_OOP2.git&quot;,
+    &quot;accountId&quot;: &quot;7b6a1a93-97f6-4cc0-9009-a7a4bda7c0ac&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -57,10 +52,15 @@
     "Application.Multi_Threading.Activity2.Main.executor": "Run",
     "Application.Multi_Threading.Activity3.Main.executor": "Run",
     "Application.Multi_Threading.Activity4.Main.executor": "Run",
+    "Application.Multi_Threading.Midterm_Review.Activity1.Main.executor": "Run",
+    "Application.Multi_Threading.Midterm_Review.Activity2.Main.executor": "Run",
+    "Application.Multi_Threading.Midterm_Review.Activity3.Main.executor": "Run",
+    "Application.Multi_Threading.Midterm_Review.Activity4.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Jamiel Kyne Pinca/Downloads/Bingo"
   }
 }]]></component>
   <component name="RunManager">
